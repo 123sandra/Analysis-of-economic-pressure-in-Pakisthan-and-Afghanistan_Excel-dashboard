@@ -1,0 +1,2 @@
+# Analysis-of-economic-pressure-in-Pakisthan-and-Afghanistan_Excel-dashboard
+Created a dashboard using Microsoft Excel with the help of pivot tables. Compared and analyzed the economic crisis &amp; issues between Pakistan and Afghanistan there inflation ratio, unemployement rate and inflation, GDP growth rate, CPI basket, Political stability and Terrorism rate, control of corruption rate, Female population compared to male,etc
